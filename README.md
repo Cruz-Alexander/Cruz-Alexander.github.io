@@ -1,6 +1,13 @@
-# h1 Heading
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
+# Computer Scientist
+
+### About Me
+I like to work
+
+### Skills
+xxxx
+#### Soft Skills xxxx    #### Hard Skills xxxx
+
+### Contact Me
+xxx
+
+Alexander Cruz  2023
