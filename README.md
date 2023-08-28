@@ -5,7 +5,9 @@ I like to work
 
 ### Skills
 xxxx
-#### Soft Skills xxxx    #### Hard Skills xxxx
+#### Soft Skills xxxx    
+
+#### Hard Skills xxxx
 
 ### Contact Me
 xxx
