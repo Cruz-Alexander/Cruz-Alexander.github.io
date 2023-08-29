@@ -8,7 +8,7 @@
     font-family: 'Merriweather', serif;
 }
 :root{
-    --tanish: #EBF5FB;
+    --sky: #4491E0;
     --off-white: #11E9BB;
     --greyish: #212F3D;
     --imperial-blue: #123C69;
@@ -150,7 +150,7 @@ h2{
 
 /* About */
 .about{
-    background-color: var(--tanish, tan);
+    background-color: var(--sky, blue);
 }
 #about-p{
     margin: 0 10% 0 10%;
@@ -185,7 +185,7 @@ h3{
 
 /* Contact */
 .contact{
-    background-color: var(--tanish, tan);
+    background-color: var(--sky, blue);
 }
 .contact-content{
     position: relative;
