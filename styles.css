@@ -8,8 +8,8 @@
     font-family: 'Merriweather', serif;
 }
 :root{
+    --redish: #CC2156;
     --sky: #4491E0;
-    --off-white: #11E9BB;
     --greyish: #212F3D;
     --imperial-blue: #123C69;
     --ruby: #AC3B61;
@@ -79,7 +79,7 @@ h2{
     padding: 200px 0;
     height: 100vh;
     min-height: 200 px;
-    background-color : var(--off-white, white);
+    background-color : var(--sky, blue);
     background-size: cover;
     background-attachment: fixed;
 }
@@ -150,7 +150,7 @@ h2{
 
 /* About */
 .about{
-    background-color: var(--sky, blue);
+    background-color: var(--redish, red);
 }
 #about-p{
     margin: 0 10% 0 10%;
@@ -163,7 +163,7 @@ h2{
 
 /* Skills */
 .skills{
-    background-color: var(--off-white, white);
+    background-color: var(--sky, blue);
 }
 #skills-header{
     width: 100%;
@@ -185,7 +185,7 @@ h3{
 
 /* Contact */
 .contact{
-    background-color: var(--sky, blue);
+    background-color: var(--redish, red);
 }
 .contact-content{
     position: relative;
@@ -209,6 +209,6 @@ h3{
 footer{
     background: black;
     padding: 15px 23px;
-    color: var(--off-white,white);
+    color: var(--sky,blue);
     text-align: center;
 }
