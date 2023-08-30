@@ -1,6 +1,6 @@
 * {
     transition: all 500ms ease;
-    cursor: cell;
+    cursor: grab;
   }
 
 html body {
