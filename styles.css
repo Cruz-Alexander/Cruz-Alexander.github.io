@@ -1,6 +1,6 @@
 * {
     transition: all 500ms ease;
-    cursor: crosshair;
+    cursor: cell;
   }
 
 html body {
@@ -14,6 +14,7 @@ body {
 }
 
 main {
+    background-color: #BB00FF
     margin: auto;
     padding: 10em 0 15em 0;
     max-width: 60%;
